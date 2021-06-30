@@ -1,0 +1,8 @@
+Decimal To Binary: 14 => 1110
+Decimal To Hexa Decimal: 12 => C
+Decimal To Binary: 189 => 10111101
+Hexa Decimal To Binary: 12 => 10010
+Hexa Decimal To Decimal: 12 => 18
+Hexa Decimal To Decimal: A => 10
+Octal To Hexa Decimal: 2 => 2
+Octal To Hexa Decimal: 25 => 15
